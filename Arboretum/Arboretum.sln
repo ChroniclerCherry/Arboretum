@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arboretum", "Arboretum\Arboretum.csproj", "{95217A31-0241-438D-977A-9F2525C4DF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95217A31-0241-438D-977A-9F2525C4DF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95217A31-0241-438D-977A-9F2525C4DF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95217A31-0241-438D-977A-9F2525C4DF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95217A31-0241-438D-977A-9F2525C4DF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3688DB5-975C-4F30-A893-F735B13A2854}
+	EndGlobalSection
+EndGlobal

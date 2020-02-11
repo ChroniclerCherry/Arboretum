@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Arboretum",
+  "Author": "",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Arboretum.Arboretum",
+  "EntryDll": "Arboretum.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
